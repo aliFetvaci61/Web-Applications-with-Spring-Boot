@@ -1,4 +1,4 @@
-# Web-application-spring-mvc-vs-spring-boot
+# Web Applications with Spring Boot
 
 Spring MVC is the most popular Java web framework based on the Model-View-Controller (MVC) design pattern. Since the Spring 3.0 version, Spring MVC has provided annotation based request mapping capabilities using @Controller and @RequestMapping. But configuring Spring MVC web application components such as DispatcherServlet, ViewResolvers, MultiPartResolver, and ExceptionHandlers is a repetitive and tedious process.
 
